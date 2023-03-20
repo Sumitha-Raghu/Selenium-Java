@@ -1,0 +1,12 @@
+Exception Handling:
+   -Apply try/catch block
+   -catch block will be executed only when there is an exception
+   -try block can have any number of catch block
+   -We cannot have try block alone 
+   -We cannot have catch block alone
+   -All the Exceptions are classes
+   -Exception is the super class for all the Exceptions
+   -To handle exception catch block is mandatory
+   
+   
+   
